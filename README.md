@@ -1,4 +1,5 @@
 # 株式会社ファンリピート 技術課題
+<img width="1371" alt="Screenshot 2025-05-06 at 5 06 19 PM" src="https://github.com/user-attachments/assets/69ff94f8-d688-4131-b65a-b1070e02cedc" />
 
 ## 📌 概要
 
